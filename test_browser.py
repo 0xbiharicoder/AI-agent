@@ -4,7 +4,7 @@ import asyncio
 import os
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"  # Replace with your actual OpenAI key
+os.environ["OPENAI_API_KEY"] = "sk-proj-"  # Replace with your actual OpenAI key
 
 async def main():
     # Create an instance of the LLM
