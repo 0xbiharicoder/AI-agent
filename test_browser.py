@@ -14,9 +14,9 @@ async def main():
     task = """
     1. Go to YouTube.com
     2. If not logged in, click the "Sign in" button
-    3. Enter the email "rajpratapvidyarthi@gmail.com" (replace with your actual email)
+    3. Enter the email "" (replace with your actual email)
     4. Click Next
-    5. Enter the password "748086377421@Raj" (replace with your actual password)
+    5. Enter the password "" (replace with your actual password)
     6. Click Next and complete any additional verification if required
     7. Now that you're logged in, search for "Raj Shamani AI podcast"
     8. Find a video where Raj Shamani discusses AI
